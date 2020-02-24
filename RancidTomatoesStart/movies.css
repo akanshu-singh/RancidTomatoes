@@ -1,0 +1,112 @@
+@charset "UTF-8";
+/* Akanshu Singh */
+/* TODO: Add any and all needed styles here */
+.image {
+	background-image: url("./images/rancidbannerbg.png");
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.info {
+	font-weight: bold;
+	font-size: 10pt;
+	line-height: 1.5;
+	margin: 10px;
+}
+
+div.a {
+	width: 1000px;
+	margin: auto;
+	border-radius: 20px;
+	overflow: hidden;
+	background: #EEEEEE;
+	box-shadow: 10px 10px #adad85;
+}
+
+div.righta {
+	max-width: 250px;
+	float: right;
+	background: #A2B964;
+}
+
+div.rightb {
+	max-width: 250px;
+	background: #A2B964;
+	padding: 15px;
+}
+
+div.left {
+	max-width: 750px;
+	background: #EEEEEE;
+	float: left;
+}
+
+div.lefta {
+	width: 340px;
+	float: left;
+	padding: 10px;
+}
+
+div.leftb {
+	width: 340px;
+	float: right;
+	padding: 10px;
+}
+
+.critic {
+	width: 550px;
+}
+
+.img1 {
+	float: left;
+	margin: 5px;
+}
+
+.img4 {
+	background-image: url("./images/rottenlargebg.png");
+	width: 751px;
+	color: red;
+	font-size: 48pt;
+	font-weight: bold;
+	max-height: 80px;
+	overflow: hidden;
+}
+
+div.percent {
+	color: red;
+	font-size: 48pt;
+	font-weight: bold;
+	padding-top: 1pt;
+}
+
+.box {
+	background-color: #FFFFFF;
+	width: 320px;
+	border: solid;
+	border-color: #CCCCCC;
+	border-width: 2px;
+	border-radius: 20px;
+	padding: 8px;
+}
+
+.img6 {
+	overflow: hidden;
+	max-height: 1000px;
+	vertical-align: top;
+}
+
+p.aaa {
+	padding-bottom: 15px;
+}
+
+.first {
+	list-style-type: none;
+	padding-left: 1pt;
+}
+
+.sum {
+	background-image: url("./images/moviebg.png");
+	text-shadow: 3px 3px grey;
+	text-align: center;
+}
